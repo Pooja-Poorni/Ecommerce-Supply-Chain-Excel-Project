@@ -1,4 +1,8 @@
 ### Ecommerce Analytics with Excel: Supply Chain Analysis and Digital Behavior
+![image](https://github.com/user-attachments/assets/519f0334-0625-4d09-8642-5b7550c24d56)
+
+
+[Download Excel file](https://docs.google.com/spreadsheets/d/1YONtNy_k6uR8spWi2eHDGK4jgzKKwvcA/export?format=xlsx)
 
 **Project Overview**
 
@@ -21,7 +25,9 @@ By analyzing both supply chain metrics and web access logs, we aim to reveal hid
 **Datasets**
 
 **Dataset 1:** DataCoSupplyChainDataset.csv
+
 Total Records: 70,000
+
 Time Period: 2015 to 2018
 
 **Focuses on:**
@@ -33,7 +39,9 @@ Time Period: 2015 to 2018
 * Sales and product performance
 
 **Dataset 2:** TokenizedAccessLogs.csv
+
 Total Records: 70,000
+
 Time Period: 2015 to 2018
 
 **Captures:**
