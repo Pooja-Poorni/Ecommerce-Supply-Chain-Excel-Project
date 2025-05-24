@@ -1,4 +1,4 @@
-### Retail Sales & Customer Segmentation Analysis
+### Ecommerce Analytics with Excel: Supply Chain Analysis and Digital Behavior
 
 **Project Overview**
 
